@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+   <layout title="COM_RWK_VIEW_TEAMRESULT_DEFAULT_TITLE">
+      <message>COM_RWK_VIEW_TEAMRESULT_DEFAULT_DESC</message>
+   </layout>
+<!--// hard coded list
+   <fields name="request">
+      <fieldset name="request">
+         <field name="tid" type="list" default="1" label="COM_RWK_VIEW_TEAMERGEBNIS_FIELD_SELECT_TEAM"
+                description="COM_RWK_VIEW_TEAMERGEBNIS_FIELD_SELECT_TEAM_DESC">
+            <option value="1">Breitenbrunn I</option>
+            <option value="2">Breitenbrunn II</option>
+            <option value="3">Breitenbrunn III</option>
+            <option value="4">Breitenbrunn IV</option>
+            <option value="5">Breitenbrunn V</option>
+            <option value="6">Breitenbrunn VI</option>
+            <option value="7">Jugend I</option>
+            <option value="8">Jugend II</option>
+         </field>
+      </fieldset>
+   </fields>
+-->
+   <fields name="request">
+      <fieldset name="request" addfieldpath="/administrator/components/com_rwk/models/fields">
+         <field name="tid" type="teamselect" label="COM_RWK_VIEW_TEAMRESULT_FIELD_SELECT_TEAM"
+                description="COM_RWK_VIEW_TEAMRESULT_FIELD_SELECT_TEAM_DESC" />
+      </fieldset>
+   </fields>
+</metadata>

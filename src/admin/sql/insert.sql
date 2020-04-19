@@ -1,0 +1,92 @@
+#Breitenbrunn I
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (1, 'Breitenbrunn I',   'Luftgewehr', 'Gauliga'         );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=16.11.2011&sel_combination_id=3376');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=23.11.2011&sel_combination_id=3380');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=30.11.2011&sel_combination_id=3383');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=07.12.2011&sel_combination_id=3385');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=14.12.2011&sel_combination_id=3389');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=11.01.2012&sel_combination_id=3391');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=18.01.2012&sel_combination_id=3395');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=25.01.2012&sel_combination_id=3398');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=01.02.2012&sel_combination_id=3400');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (1, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=29&sel_date=08.02.2012&sel_combination_id=3404');
+#Breitenbrunn II
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (2, 'Breitenbrunn II',  'Luftgewehr', 'A-Klasse (Nord)' );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=16.11.2011&sel_combination_id=2986');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=23.11.2011&sel_combination_id=2990');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=30.11.2011&sel_combination_id=2993');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=07.12.2011&sel_combination_id=2995');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=14.12.2011&sel_combination_id=2999');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=11.01.2012&sel_combination_id=3001');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=18.01.2012&sel_combination_id=3005');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=25.01.2012&sel_combination_id=3008');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=01.02.2012&sel_combination_id=3010');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (2, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=31&sel_date=08.02.2012&sel_combination_id=3014');
+#Breitenbrunn III
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (3, 'Breitenbrunn III', 'Luftgewehr', 'B-Klasse (Nord)' );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=16.11.2011&sel_combination_id=3075');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=23.11.2011&sel_combination_id=3079');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=30.11.2011&sel_combination_id=3082');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=07.12.2011&sel_combination_id=3084');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=14.12.2011&sel_combination_id=3089');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=11.01.2012&sel_combination_id=3090');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=18.01.2012&sel_combination_id=3094');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=25.01.2012&sel_combination_id=3097');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=01.02.2012&sel_combination_id=3099');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (3, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=34&sel_date=08.02.2012&sel_combination_id=3104');
+#Breitenbrunn IV
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (4, 'Breitenbrunn IV',  'Luftgewehr', 'C-Klasse (Nord)' );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=16.11.2011&sel_combination_id=3045');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=23.11.2011&sel_combination_id=3049');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=30.11.2011&sel_combination_id=3052');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=07.12.2011&sel_combination_id=3054');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=14.12.2011&sel_combination_id=3059');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=11.01.2012&sel_combination_id=3060');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=18.01.2012&sel_combination_id=3064');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=25.01.2012&sel_combination_id=3067');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=01.02.2012&sel_combination_id=3069');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (4, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=33&sel_date=08.02.2012&sel_combination_id=3074');
+#Breitenbrunn V
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (5, 'Breitenbrunn V',   'Luftgewehr', 'D-Klasse (Nord)' );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=17.11.2011&sel_combination_id=3166');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=24.11.2011&sel_combination_id=3170');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=01.12.2011&sel_combination_id=3173');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=08.12.2011&sel_combination_id=3175');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=15.12.2011&sel_combination_id=3179');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=12.01.2012&sel_combination_id=3181');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=19.01.2012&sel_combination_id=3185');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=26.01.2012&sel_combination_id=3188');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=02.02.2012&sel_combination_id=3190');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (5, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=38&sel_date=09.02.2012&sel_combination_id=3194');
+#Breitenbrunn VI
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (6, 'Breitenbrunn VI',  'Luftgewehr', 'D-Klasse (Mitte)');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=17.11.2011&sel_combination_id=3256');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=24.11.2011&sel_combination_id=3260');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  3, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=01.12.2011&sel_combination_id=3263');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=08.12.2011&sel_combination_id=3265');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=15.12.2011&sel_combination_id=3269');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=12.01.2012&sel_combination_id=3271');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=19.01.2012&sel_combination_id=3275');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  8, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=26.01.2012&sel_combination_id=3278');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=02.02.2012&sel_combination_id=3280');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (6, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=6&sel_class_id=40&sel_date=09.02.2012&sel_combination_id=3284');
+#Jugend I
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (7, 'Jugend I',         'Luftgewehr', 'Jugend (Gauliga)');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=12.11.2011&sel_combination_id=2905');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=19.11.2011&sel_combination_id=2908');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=03.12.2011&sel_combination_id=2912');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=10.12.2011&sel_combination_id=2913');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=17.12.2011&sel_combination_id=2915');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=14.01.2012&sel_combination_id=2918');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=28.01.2012&sel_combination_id=2922');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (7, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=44&sel_date=04.02.2012&sel_combination_id=2923');
+#Jugend II
+INSERT INTO jos_rwkteam (id, name, disciplin, league) VALUES (8, 'Jugend II',        'Luftgewehr', 'Jugend (Nord)'   );
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  1, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=12.11.2011&sel_combination_id=2945');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  2, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=19.11.2011&sel_combination_id=2948');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  4, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=03.12.2011&sel_combination_id=2952');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  5, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=10.12.2011&sel_combination_id=2953');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  6, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=17.12.2011&sel_combination_id=2955');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  7, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=14.01.2012&sel_combination_id=2958');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8,  9, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=28.01.2012&sel_combination_id=2962');
+INSERT INTO jos_rwkmatch (team, pass, uri) VALUES (8, 10, 'http://www.rwk-onlinemelder.de/online/show_sent_competitions.php?sel_discipline_id=5&sel_class_id=25&sel_date=04.02.2012&sel_combination_id=2963');

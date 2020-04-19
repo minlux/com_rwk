@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+   <fieldset name="options" label="COM_RWK_CONFIG_OPTIONS_LABEL" description="COM_RWK_CONFIG_OPTIONS_DESC">
+      <field  name="tocurl" type="text" size="64" default="" class="inputbox" label="COM_RWK_RWK_FIELD_TOCURL_LABEL" description="COM_RWK_RWK_FIELD_TOCURL_DESC" />
+      <field  name="cookie" type="text" size="64" default="" class="inputbox" label="COM_RWK_RWK_FIELD_COOKIE_LABEL" description="COM_RWK_RWK_FIELD_COOKIE_DESC" />
+   </fieldset>
+</config>
+

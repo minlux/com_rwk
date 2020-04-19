@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+#rwkteamresult div.brief
+{
+   margin     : 10px 10px 50px;
+}
+
+#rwkteamresult .brief span
+{
+   display    : block;
+   font-style : italic;
+}
+
+#rwkteamresult table.tabelle
+{
+   width      : 550px;
+}
+
+/* add a "top border" to all rows expect the headline */
+#rwkteamresult .tabelle td
+{
+   border-top : 1px solid #CCCCCC;
+}
+
+/* add a "right border" to column 2 */
+#rwkteamresult .tabelle th + th,
+#rwkteamresult .tabelle td + td
+{
+   border-right : 1px solid #CCCCCC;
+}
+
+/* do not add a "right border" to column >2 */
+#rwkteamresult .tabelle th + th + th,
+#rwkteamresult .tabelle td + td + td
+{
+   border-right : none;
+}
+
+/* column 1 = left aligned */
+#rwkteamresult .tabelle th,
+#rwkteamresult .tabelle td
+{
+   text-align:  left;
+}
+
+/* column 2, 3 = center aligned */
+#rwkteamresult .tabelle th + th,
+#rwkteamresult .tabelle td + td
+{
+   text-align:  center;
+}
+
+/* column 4 = right aligned */
+#rwkteamresult .tabelle th + th + th + th,
+#rwkteamresult .tabelle td + td + td + td
+{
+   text-align:  right;
+}
+
+
+
+#rwkteamresult div.wettkampf
+{
+   width                 : 450px;
+   margin                : 10px 10px 75px 50px;
+   padding               : 0px 5px 5px 10px;
+   border                : 3px solid #930000;
+   background            : url(icon.png) no-repeat;
+   background-position   : 10px 10px;
+   background-color      : #FCFED3;
+}
+
+#rwkteamresult div.wettkampf > p
+{
+   text-align            : right;
+   font-family           : sans-serif;
+   font-style:           : italic;
+   font-size             : 0.8em;
+}
+
+
+#rwkteamresult div.mannschaft
+{
+   margin                : 25px 0px;
+}
+
+#rwkteamresult div.mannschaft > h3
+{
+   margin                : 0px;
+   padding               : 0px;
+   text-align            : center;
+}
+
+
+#rwkteamresult div.mannschaft > h4
+{
+   margin                : 0px;
+   padding               : 0px;
+   text-align            : center;
+   font-size             : 0.8em;
+   font-style            : italic;
+
+}
+
+
+
+#rwkteamresult table
+{
+   width                 : 440px;
+   font                  : small/1.5 "Tahoma", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif;
+   border-collapse       : collapse;
+   border                : none;
+}
+
+#rwkteamresult table tr
+{
+   color                 : #666666;
+   background            : #FFFFFF;
+}
+#rwkteamresult table tr:hover
+{
+   background            : #FFFFFF url(tr_bck.gif) repeat;
+}
+
+#rwkteamresult table tr.total
+{
+   border-top            : 1px solid #CCCCCC;
+   background            : #FFFFFF url(foot_bck.gif) repeat;
+   font-weight           : bolder;
+}
+
+
+#rwkteamresult table th
+{
+   color                 : #666666;
+   padding               : 5px 5px;
+/*   border                : 1px solid #CCCCCC; */
+   background            : #FFFFFF url(th_bck.gif) repeat-x;
+   font-weight           : bolder;
+}
+
+#rwkteamresult table td
+{
+   padding               : 2px 10px;
+/*   border                : 1px solid #CCCCCC; */
+}
+
+#rwkteamresult table tr.total td
+{
+   padding               : 2px 5px;
+/*   border                : 1px solid #CCCCCC; */
+}
+
+
+/* Table Cell Alignment */
+#rwkteamresult .mannschaft th
+{
+   width                 : 340px;
+   text-align            : left;
+}
+
+#rwkteamresult .mannschaft th+th,
+#rwkteamresult .mannschaft td+td
+{
+   width                 : auto;
+   text-align            : right;
+}
+
+/* Table Cell Font Format */
+#rwkteamresult .mannschaft tr.ersatz
+{
+   text-decoration       : line-through;
+}
+
+

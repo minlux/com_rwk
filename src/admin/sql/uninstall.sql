@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS #__rwkmatch;
+DROP TABLE IF EXISTS #__rwkteam;
